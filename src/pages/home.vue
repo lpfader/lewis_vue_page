@@ -1,6 +1,6 @@
 <template>
   <section class="home">
-    <img src="/lewis_vue_page/name_header.png" />
+    <img src="/name_header.png" class="header-logo" />
 
     <p>
       This page was created and published using Vue. For my react page, please go
@@ -30,7 +30,13 @@ export default {
   text-align: center;
   padding: 2rem;
 }
-
+.header-logo {
+  display: block;
+  margin: 0 auto 1.5rem;
+  max-width: 320px;   /* controls size */
+  width: 100%;        /* scales responsively */
+  height: auto;       /* keeps proportions */
+}
 .calendar-link {
   display: inline-block;
   margin-top: 1.2rem;
@@ -43,11 +49,5 @@ export default {
 .calendar-link:hover {
   text-decoration: underline;
   opacity: 0.85;
-}
-.header-logo {
-  display: block;
-  margin: 0 auto 1.5rem;
-  max-width: 320px;
-  height: auto;
 }
 </style>
