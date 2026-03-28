@@ -1,9 +1,8 @@
 <template>
   <section class="home">
-    <h1>Lewis Fader</h1>
+    <img src="/name_header.png" alt="Lewis Fader header" class="header-logo" />
     <p>This page was created and published using Vue. For my react page, please go <a href="https://lpfader.github.io/lewis_page/" target="_blank">here</a>.</p>
-    <button @click="sayHello">Click Me</button>
-  </section>
+     </section>
 </template>
 
 <script>
@@ -31,5 +30,11 @@ button {
   color: white;
   font-weight: bold;
   cursor: pointer;
+}
+.header-logo {
+  display: block;
+  margin: 0 auto 1.5rem;
+  max-width: 320px;
+  height: auto;
 }
 </style>
