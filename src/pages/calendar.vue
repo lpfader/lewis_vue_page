@@ -37,7 +37,19 @@ export default {
   text-align: center;
   padding: 2rem;
 }
-
+.calendar section {
+  margin-bottom: 2rem;
+}
+.calendar section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.calendar h2 {
+  margin-bottom: 0.5rem;
+  color: #7e5a7e;
+  font-weight: 400;
+}
 table {
   width: 100%;
   max-width: 400px;
