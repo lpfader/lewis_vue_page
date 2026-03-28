@@ -2,26 +2,398 @@
   <section class="calendar">
     <h1>2026 Calendar (March–December)</h1>
     
-<section> <h2>March 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td>1</td></tr> <tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr> <tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr> <tr><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td></tr> <tr><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28<p>Taking Bruce to Krispy Kreme and then swimming at meadowvale</p></td><td>29</td></tr> <tr><td>30</td><td>31</td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>March 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28<p>Taking Bruce to Krispy Kreme and then swimming at meadowvale</p></div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">31</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>April 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td>1</td><td>2</td><td>3</td><td>4</td></tr> <tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr> <tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr> <tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr> <tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>April 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>May 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td>1</td><td>2</td></tr> <tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr> <tr><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr> <tr><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr> <tr><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr> <tr><td>31</td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>May 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">31</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>June 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr> <tr><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td></tr> <tr><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr> <tr><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td></tr> <tr><td>28</td><td>29</td><td>30</td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>June 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>July 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td>1</td><td>2</td><td>3</td><td>4</td></tr> <tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr> <tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr> <tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr> <tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>July 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">31</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>August 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td>1</td></tr> <tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr> <tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr> <tr><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td></tr> <tr><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td></tr> <tr><td>30</td><td>31</td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>August 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">31</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>September 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr> <tr><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr> <tr><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td></tr> <tr><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td></tr> <tr><td>27</td><td>28</td><td>29</td><td>30</td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>September 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>October 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td>1</td><td>2</td><td>3</td></tr> <tr><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr> <tr><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td></tr> <tr><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td></tr> <tr><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>October 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">31</div> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>November 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr> <tr><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr> <tr><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td></tr> <tr><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td></tr> <tr><td>29</td><td>30</td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
+<section> <h2>November 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section>
 
-<section> <h2>December 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"></td><td class="empty"></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr> <tr><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr> <tr><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td></tr> <tr><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td></tr> <tr><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td class="empty"></td><td class="empty"></td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section> 
+<section> <h2>December 2026</h2> <table> <thead> <tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr> </thead> <tbody> <tr><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">1</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">2</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">3</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">4</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">5</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">6</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">7</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">8</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">9</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">10</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">11</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">12</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">13</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">14</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">15</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">16</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">17</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">18</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">19</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">20</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">21</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">22</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">23</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">24</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">25</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">26</div> <div class="day-note">Notes:</div>
+</td></tr> <tr><td><div class="day-number">27</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">28</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">29</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">30</div> <div class="day-note">Notes:</div>
+</td><td><div class="day-number">31</div> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td><td class="empty"> <div class="day-note">Notes:</div>
+</td></tr> </tbody> </table> <textarea class="month-notes" placeholder="Notes for this month"></textarea> </section> 
   </section>
+
 
 </template>
 
@@ -39,8 +411,11 @@ export default {
 }
 td {
   position: relative;
+  height: 5rem;       
+  padding: 0.5rem;    
+  vertical-align: top;
+  position: relative; 
 }
-
 td::after {
   content: "";
   position: absolute;
