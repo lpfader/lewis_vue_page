@@ -1,18 +1,18 @@
 <template>
   <section class="home">
-    <img src="/name_header.png" alt="Lewis Fader header" class="header-logo" />
+    <img src="/lewis_vue_page/name_header.png" />
 
     <p>
       This page was created and published using Vue. For my react page, please go
       <a href="https://lpfader.github.io/lewis_page/" target="_blank">here</a>.
     </p>
-<p>my calendar should appear here soon</p>
+
     <router-link to="/calendar" class="calendar-link">
-      View Calendar
+      Calendar of family events
     </router-link>
   </section>
 </template>
-
+<!-- force rebuild -->
 
 <script>
 export default {
