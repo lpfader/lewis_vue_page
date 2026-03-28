@@ -1,8 +1,10 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import Home from '../pages/Home.vue'
+import Home from '../pages/home.vue'
+import Calendar from '../pages/calendar.vue'
 
 const routes = [
-  { path: '/', component: Home }
+  { path: '/', component: Home },
+  { path: '/calendar', component: Calendar }
 ]
 
 export default createRouter({
