@@ -2,7 +2,7 @@
   "name": "lewis-vue-page",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://lpfader.github.io/lewis_vue",
+  "homepage": "https://lpfader.github.io/lewis_vue_page/",
   "type": "module",
   "scripts": {
     "dev": "vite",
