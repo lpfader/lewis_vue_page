@@ -1,10 +1,10 @@
 <template>
   <section class="home">
     <img src="/name_header.png" class="header-logo" />
-    <p>I enjoy turning ideas into intuitive web pages and digital experiences in fast‑moving, collaborative environments. I work closely with internal and external teams, offering solid consultation and customer support while keeping everything on‑brand and high‑quality. I’m hands‑on with troubleshooting, testing, and rolling out digital solutions, and I’m always looking for creative ways to make communications better. I also act as a go‑to platform expert, helping people understand tools and use them confidently.</p>
+    <p style="text-align:left;">This is my Vue project. It started as a chance to connect with other parents at my kid's school but my React page turned out a little better.</p>
     <hr>
     
-    <p>
+    <p style="text-align:left;">
       This page was created and published using Vue. For my react page, please go
       <a href="https://lpfader.github.io/lewis_page/" target="_blank">here</a>. This contains my resume and professional portfolio. Please contact me for further examples or information.</p>
     <hr>
